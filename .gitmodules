@@ -1,3 +1,6 @@
 [submodule "thematic-cms-nemjs-api"]
 	path = thematic-cms-nemjs-api
 	url = https://github.com/fjah90/thematic-cms-nemjs-api.git
+[submodule "thematic-cms-react-app"]
+	path = thematic-cms-react-app
+	url = https://github.com/fjah90/thematic-cms-react-app.git
