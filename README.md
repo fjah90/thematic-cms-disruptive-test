@@ -1,4 +1,4 @@
-#Thematic-cms-disruptive-test
+### Thematic-cms-disruptive-test
 Prueba Técnica Disruptive Studio
 
 ## Prueba Técnica
